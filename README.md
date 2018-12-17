@@ -8,7 +8,7 @@ The notebook consists of four parts as below.
 
 In order to reproduce similar result, you just need to run all the kernels sequentially. 
 
-The highest score achieved by this model is 8.
+The trained agent receives an average reward of 6 after 2 days of training on a Maxbook Pro until 20,000 episodes.
 Below is an example of an episode played by our trained agent attaining a score of 6.
 
 ![image](https://github.com/xiaorongY/Advanced-Machin-Learning-Project/blob/master/pg_reward%3D6.gif)
