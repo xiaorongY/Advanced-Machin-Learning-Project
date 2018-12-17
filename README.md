@@ -11,4 +11,4 @@ In order to reproduce similar result, you just need to run all the kernels seque
 The highest score achieved by this model is 8.
 Below is an example of an episode played by our trained agent.
 
-![image](https://drive.google.com/open?id=1VDjqNyxD9sbz7JDDuIQpxUCXzltxX5VL)
+![image](https://github.com/xiaorongY/Advanced-Machin-Learning-Project/blob/master/pg_reward%3D6.gif)
