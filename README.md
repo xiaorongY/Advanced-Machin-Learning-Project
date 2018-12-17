@@ -3,6 +3,13 @@ The notebook contains codes of the DQN and Policy Gradient Models for Pong game.
 
 
 
+
+
+
+
+
+
+
 The thrid notebook corresponding to Policy Gradient model, which consists of four parts as below.
 1. Construct Policy network and define functions for saving and reloading models during training
 2. Set up logging directory
