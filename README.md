@@ -6,9 +6,9 @@ The notebook consists of four parts as below.
 3. Set up parameters, which can be further experimented with
 4. Training the Policy network and save training results and videos
 
-In order to reproduce similar result, you just need to run all the kernels sequentially. Informations 
+In order to reproduce similar result, you just need to run all the kernels sequentially. 
 
 The highest score achieved by this model is 8.
-Below is an example of an episode played by our trained agent.
+Below is an example of an episode played by our trained agent attaining a score of 6.
 
 ![image](https://github.com/xiaorongY/Advanced-Machin-Learning-Project/blob/master/pg_reward%3D6.gif)
