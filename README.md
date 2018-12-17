@@ -1,6 +1,13 @@
 # Advanced Machin Learning Project: DQN and Policy Gradient Models for Pong
 The notebook contains codes of the DQN and Policy Gradient Models for Pong game.
 
+## Requirements
+* tensorflow-gpu
+* gym
+* gym[atari]
+* imageio
+
+## DQN
 The first note book is code for DQN, you can turn on TEST_MODE for testing and producing gif, if you have the trained model in coressponding path. Those gifs are for the Double Dueling DQN model Wang, Z. (2015) and awjuliani. (2017), as we can see, different model produce very similar strategy.
 
 ![image](https://github.com/xiaorongY/Advanced-Machin-Learning-Project/blob/master/wang.gif)
@@ -10,8 +17,7 @@ As promised in our report, we can also test same model with PongNoFrameskip-v4, 
 
 ![image](https://github.com/xiaorongY/Advanced-Machin-Learning-Project/blob/master/noFrameSkip.gif)
 
-
-
+## Policy Gradient
 The second notebook corresponding to Policy Gradient model, which consists of four parts as below.
 1. Construct Policy network and define functions for saving and reloading models during training
 2. Set up logging directory
