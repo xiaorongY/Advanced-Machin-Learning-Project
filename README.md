@@ -1,4 +1,4 @@
-# Advanced-Machin-Learning-Project-Policy Gradient Model for Pong
+# Advanced Machin Learning Project: DQN and Policy Gradient Models for Pong
 The notebook contains codes of the Policy Gradient Model for Pong game.
 The notebook consists of four parts as below.
 1. Construct Policy network and define functions for saving and reloading models during training
