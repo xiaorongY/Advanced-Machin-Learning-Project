@@ -1,5 +1,5 @@
 # Advanced Machin Learning Project: DQN and Policy Gradient Models for Pong
-The notebook contains codes of the DQN and Policy Gradient Models for Pong game.
+This repository is for a final project Deep reinforcement learning with pixel features for the course Advanced Machine Learning (GR5242) • Fall 2018 at Columbia University
 
 ## Requirements
 * tensorflow-gpu
